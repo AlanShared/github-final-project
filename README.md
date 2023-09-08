@@ -1,7 +1,24 @@
+# Github final project
+
+## What is it?
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
-Input:
+
+## Installation
+
+1.- Download it to your machine
+2.- Execute it from your terminal
+
+```bash
+./calculator.sh
+```
+
+## Usage
+
+You will be prompted for: 
+
    p, principal amount
    t, time period in years
    r, annual rate of interest
-Output
+
+Terminal will output:
    simple interest = p*t*r
