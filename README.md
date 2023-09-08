@@ -9,7 +9,7 @@ A calculator that calculates simple interest given principal, annual rate of int
 2.- Execute it from your terminal
 
 ```bash
-./calculator.sh
+./simple_interest.sh
 ```
 
 ## Usage
